@@ -17,3 +17,10 @@
 
 ### Java基础
 * [集合](MD/Java基础-集合.md)
+* JMM
+* JVM
+* 线程
+* redis
+* mysql
+* 分布式
+* lock
